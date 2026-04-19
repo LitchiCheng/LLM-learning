@@ -46,3 +46,7 @@ dependencies = [
     "triton==3.6.0",
     "typing-extensions==4.15.0",
 ]
+
+[[tool.uv.index]]
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+default = true
